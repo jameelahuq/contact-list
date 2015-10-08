@@ -7,7 +7,7 @@ var ngApp = angular.module('room-spec', ['ui.router']);
 console.log("ngApp is running");
 
 ngApp.constant('constants', {
-  apiUrl: 'https://git.heroku.com/pacific-springs-2861.git/'
+  apiUrl: 'https://git.heroku.com/pacific-springs-2861.git'
 });
 
 
